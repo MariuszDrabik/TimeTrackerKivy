@@ -1,0 +1,16 @@
+/database
+/venv
+__pycache__/
+/__pycache__
+.pyc
+identifier.sqlite
+.identifier.sqlite
+
+.vscode/    
+.vscode/*    
+.vscode/**    
+summary.csv
+*.csv
+
+.idea
+.idea"
